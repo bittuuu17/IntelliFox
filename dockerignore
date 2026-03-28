@@ -1,0 +1,16 @@
+.env
+.env.*
+.venv
+venv
+__pycache__
+*.pyc
+*.pyo
+.git
+.gitignore
+run_local.*
+deploy*.sh
+build_banking_knowledge.py
+*.md
+.DS_Store
+*.log
+node_modules
